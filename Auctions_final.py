@@ -341,7 +341,7 @@ if __name__ == "__main__":
     )
     termBot.run()
     #write terms dataset in .csv in the current folder:
-    termBot.df.to_csv("terms.csv", mode="a")
+    termBot.df.to_csv("Data/terms.csv", mode="a")
     #write errors in .txt in the current folder:
     with open("Term_urls_failed.txt", "w") as file:
         for error in termBot.term_url_error:
