@@ -44,5 +44,5 @@ def getTerms():
 # Initialize and activate the scrapping bots:
 if __name__ == "__main__":
     # logging.basicConfig(level=logging.DEBUG)
-    # getAuctions()
+    getAuctions()
     getTerms()
