@@ -8,7 +8,7 @@ import pandas as pd
 
 dirPath = "Risks/"
 
-df = pd.DataFrame(columns=["Company Name", "Words count", "Competition Count"])
+df = pd.DataFrame(columns=["Company Name", "Year", "Words count", "Competition Count"])
 
 stopWords = set(stopwords.words("english"))
 
@@ -57,6 +57,7 @@ for filePath in listdir(dirPath):
         {
             "Company Name": company,
             "Words count": length,
+            "Year": year,
             "Competition Count": countCompetition,
         },
         ignore_index=True,
