@@ -1,0 +1,102 @@
+,Symbol,Name,Link,Score,Found Name
+0,AAPL,Apple Inc.,/wiki/Apple_Inc.,100,APPLE INC
+1,ABBV,AbbVie Inc.,/wiki/AbbVie_Inc.,100,ABBVIE INC
+2,ABT,Abbott Laboratories,/wiki/Abbott_Laboratories,100,ABBOTT LABORATORIES
+3,ACN,Accenture,/wiki/Accenture,95,ACCENTURE PLC
+4,ADBE,Adobe Inc.,/wiki/Adobe_Inc.,100,ADOBE INC
+5,AGN,Allergan,/wiki/Allergan,90,ALLERGAN INC
+6,AIG,American International Group,/wiki/American_International_Group,100,AMERICAN INTERNATIONAL GROUP
+7,ALL,Allstate,/wiki/Allstate,90,ALLSTATE CORP
+8,AMGN,Amgen Inc.,/wiki/Amgen,100,AMGEN INC
+9,AMT,American Tower,/wiki/American_Tower,95,AMERICAN TOWER CORP
+10,AMZN,Amazon.com,/wiki/Amazon.com,95,AMAZON.COM INC
+11,AXP,American Express,/wiki/American_Express,95,AMERICAN EXPRESS CO
+12,BA,Boeing Co.,/wiki/Boeing,100,BOEING CO
+13,BAC,Bank of America Corp,/wiki/Bank_of_America,100,BANK OF AMERICA CORP
+14,BIIB,Biogen,/wiki/Biogen,90,VASCULAR BIOGENICS LTD
+15,BK,The Bank of New York Mellon,/wiki/The_Bank_of_New_York_Mellon,87,BANK OF NEW YORK MELLON CORP
+16,BKNG,Booking Holdings,/wiki/Booking_Holdings,95,BOOKING HOLDINGS INC
+17,BLK,BlackRock Inc,/wiki/BlackRock,100,BLACKROCK INC
+18,BMY,Bristol-Myers Squibb,/wiki/Bristol-Myers_Squibb,95,BRISTOL-MYERS SQUIBB CO
+19,BRK.B,Berkshire Hathaway,/wiki/Berkshire_Hathaway,100,BERKSHIRE HATHAWAY
+20,C,Citigroup Inc,/wiki/Citigroup,100,CITIGROUP INC
+21,CAT,Caterpillar Inc.,/wiki/Caterpillar_Inc.,100,CATERPILLAR INC
+22,CHTR,Charter Communications,/wiki/Charter_Communications,95,CHARTER COMMUNICATIONS INC
+23,CL,Colgate-Palmolive,/wiki/Colgate-Palmolive,95,COLGATE-PALMOLIVE CO
+24,CMCSA,Comcast Corp.,/wiki/Comcast,100,COMCAST CORP
+25,COF,Capital One Financial Corp.,/wiki/Capital_One,100,CAPITAL ONE FINANCIAL CORP
+26,COP,ConocoPhillips,/wiki/ConocoPhillips,100,CONOCOPHILLIPS
+27,COST,Costco Wholesale Corp.,/wiki/Costco_Wholesale_Corp.,100,COSTCO WHOLESALE CORP
+28,CSCO,Cisco Systems,/wiki/Cisco_Systems,95,CISCO SYSTEMS INC
+29,CVS,CVS Health,/wiki/CVS_Health,90,CVS HEALTH CORP
+30,CVX,Chevron Corporation,/wiki/Chevron_Corporation,90,CHEVRON CORP
+31,DD,DuPont de Nemours Inc,/wiki/DuPont_de_Nemours_Inc,86,AARON'S INC
+32,DHR,Danaher Corporation,/wiki/Danaher_Corporation,90,DANAHER CORP
+33,DIS,The Walt Disney Company,/wiki/The_Walt_Disney_Company,86,JOINT CORP (THE)
+34,DOW,Dow Inc.,/wiki/Dow_Inc.,100,DOW INC
+35,DUK,Duke Energy,/wiki/Duke_Energy,95,DUKE ENERGY CORP
+36,EMR,Emerson Electric Co.,/wiki/Emerson_Electric,100,EMERSON ELECTRIC CO
+37,EXC,Exelon,/wiki/Exelon,90,EXELON CORP
+38,F,Ford Motor Company,/wiki/Ford_Motor_Company,86,HIGHLAND COPPER COMPANY INC
+39,FB,"Facebook, Inc.","/wiki/Facebook,_Inc.",96,FACEBOOK INC
+40,FDX,FedEx,/wiki/FedEx,90,FEDEX CORP
+41,GD,General Dynamics,/wiki/General_Dynamics,95,GENERAL DYNAMICS CORP
+42,GE,General Electric,/wiki/General_Electric,95,GENERAL ELECTRIC CO
+43,GILD,Gilead Sciences,/wiki/Gilead_Sciences,95,GILEAD SCIENCES INC
+44,GM,General Motors,/wiki/General_Motors,95,GENERAL MOTORS CO
+45,GOOG,Alphabet Inc.,/wiki/Alphabet_Inc.,100,ALPHABET INC
+46,GOOGL,Alphabet Inc.,/wiki/Alphabet_Inc.,100,ALPHABET INC
+47,GS,Goldman Sachs,/wiki/Goldman_Sachs,90,GOLDMAN SACHS MLP INCM OPPS
+48,HD,Home Depot,/wiki/Home_Depot,95,HOME DEPOT INC
+49,HON,Honeywell,/wiki/Honeywell,90,HONEYWELL INTERNATIONAL INC
+50,IBM,International Business Machines,/wiki/IBM,86,ASM INTERNATIONAL NV
+51,INTC,Intel Corp.,/wiki/Intel,100,INTEL CORP
+52,JNJ,Johnson & Johnson,/wiki/Johnson_%26_Johnson,100,JOHNSON & JOHNSON
+53,JPM,JPMorgan Chase & Co.,/wiki/JPMorgan_Chase_%26_Co.,100,JPMORGAN CHASE & CO
+54,KHC,Kraft Heinz,/wiki/Kraft_Heinz,95,KRAFT HEINZ CO
+55,KMI,Kinder Morgan,/wiki/Kinder_Morgan,95,KINDER MORGAN INC
+56,KO,The Coca-Cola Company,/wiki/The_Coca-Cola_Company,90,COCA-COLA CO
+57,LLY,Eli Lilly and Company,/wiki/Eli_Lilly_and_Company,82,LILLY (ELI) & CO
+58,LMT,Lockheed Martin,/wiki/Lockheed_Martin,95,LOCKHEED MARTIN CORP
+59,LOW,Lowe's,/wiki/Lowe%27s,90,LOWE'S COMPANIES INC
+60,MA,MasterCard Inc,/wiki/MasterCard,100,MASTERCARD INC
+61,MCD,McDonald's Corp,/wiki/McDonald%27s,100,MCDONALD'S CORP
+62,MDLZ,Mondelēz International,/wiki/Mondel%C4%93z_International,88,MONDELEZ INTERNATIONAL INC
+63,MDT,Medtronic plc,/wiki/Medtronic,100,MEDTRONIC PLC
+64,MET,MetLife Inc.,/wiki/MetLife,100,METLIFE INC
+65,MMM,3M Company,/wiki/3M,90,3M CO
+66,MO,Altria Group,/wiki/Altria,95,ALTRIA GROUP INC
+67,MRK,Merck & Co.,/wiki/Merck_%26_Co.,100,MERCK & CO
+68,MS,Morgan Stanley,/wiki/Morgan_Stanley,100,MORGAN STANLEY
+69,MSFT,Microsoft,/wiki/Microsoft,90,MICROSOFT CORP
+70,NEE,NextEra Energy,/wiki/NextEra_Energy,95,NEXTERA ENERGY INC
+71,NFLX,Netflix,/wiki/Netflix,90,NETFLIX INC
+72,NKE,"Nike, Inc.","/wiki/Nike,_Inc.",86,ADC TELECOMMUNICATIONS INC
+73,NVDA,NVIDIA Corp.,/wiki/Nvidia,100,NVIDIA CORP
+74,ORCL,Oracle Corporation,/wiki/Oracle_Corporation,90,ORACLE CORP
+75,OXY,Occidental Petroleum Corp.,/wiki/Occidental_Petroleum,100,OCCIDENTAL PETROLEUM CORP
+76,PEP,PepsiCo,/wiki/PepsiCo,90,PEPSICO INC
+77,PFE,Pfizer Inc,/wiki/Pfizer_Inc,100,PFIZER INC
+78,PG,Procter & Gamble Co,/wiki/Procter_%26_Gamble,100,PROCTER & GAMBLE CO
+79,PM,Philip Morris International,/wiki/Philip_Morris_International,100,PHILIP MORRIS INTERNATIONAL
+80,PYPL,PayPal Holdings,/wiki/PayPal,95,PAYPAL HOLDINGS INC
+81,QCOM,Qualcomm Inc.,/wiki/Qualcomm,100,QUALCOMM INC
+82,RTX,Raytheon Technologies,/wiki/Raytheon_Technologies,86,RAYTHEON CO
+83,SBUX,Starbucks Corp.,/wiki/Starbucks,100,STARBUCKS CORP
+84,SLB,Schlumberger,/wiki/Schlumberger,95,SCHLUMBERGER LTD
+85,SO,Southern Company,/wiki/Southern_Company,86,COLUMBUS SOUTHERN POWER CORP
+86,SPG,"Simon Property Group, Inc.",/wiki/Simon_Property_Group,98,SIMON PROPERTY GROUP INC
+87,T,AT&T Inc,/wiki/AT%26T,100,AT&T INC
+88,TGT,Target Corporation,/wiki/Target_Corporation,90,TARGET CORP
+89,TMO,Thermo Fisher Scientific,/wiki/Thermo_Fisher_Scientific,95,THERMO FISHER SCIENTIFIC INC
+90,TXN,Texas Instruments,/wiki/Texas_Instruments,95,TEXAS INSTRUMENTS INC
+91,UNH,UnitedHealth Group,/wiki/UnitedHealth_Group,95,UNITEDHEALTH GROUP INC
+92,UNP,Union Pacific Corporation,/wiki/Union_Pacific_Corporation,86,UNION GAS LTD
+93,UPS,United Parcel Service,/wiki/United_Parcel_Service,95,UNITED PARCEL SERVICE INC
+94,USB,U.S. Bancorp,/wiki/U.S._Bancorp,96,U S BANCORP
+95,V,Visa Inc.,/wiki/Visa_Inc.,100,VISA INC
+96,VZ,Verizon Communications,/wiki/Verizon_Communications,95,VERIZON COMMUNICATIONS INC
+97,WBA,Walgreens Boots Alliance,/wiki/Walgreens_Boots_Alliance,95,WALGREENS BOOTS ALLIANCE INC
+98,WFC,Wells Fargo,/wiki/Wells_Fargo,95,WELLS FARGO & CO
+99,WMT,Walmart,/wiki/Walmart,90,WALMART INC
+100,XOM,Exxon Mobil Corp.,/wiki/ExxonMobil,100,EXXON MOBIL CORP
